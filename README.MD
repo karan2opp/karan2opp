@@ -64,7 +64,7 @@ I enjoy designing robust backend systems, building intuitive user experiences, a
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="50" height="50"/>
   &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" alt="OpenAI" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="50" height="50"/>
 </p>
 
 </div>
