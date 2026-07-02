@@ -27,73 +27,66 @@ I enjoy designing robust backend systems, building intuitive user experiences, a
 
 
 ---
-## 🧰 Languages & Tools
-<div align="center">
 ## Languages & Tools
 
-<p align="center">
+<div align="center">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="HTML"/>
-</a>
+### Frontend
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" alt="CSS"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-</a>
-
-<a href="https://www.typescriptlang.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/>
-</a>
-
-<a href="https://react.dev/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" alt="React"/>
-</a>
-
-<a href="https://nextjs.org/">
-<img src="https://cdn.simpleicons.org/nextdotjs/white" width="50" alt="Next.js"/>
-</a>
-
-<a href="https://nodejs.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/>
-</a>
-
-<a href="https://expressjs.com/">
-<img src="https://cdn.simpleicons.org/express/white" width="50" alt="Express"/>
-</a>
-
-<a href="https://tailwindcss.com/">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" alt="Tailwind CSS"/>
-</a>
-
-<a href="https://redis.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="50" alt="Redis"/>
-</a>
-
-<a href="https://www.mongodb.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB"/>
-</a>
-
-<a href="https://www.postgresql.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/>
-</a>
-
-<a href="https://orm.drizzle.team/">
-<img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" width="50" alt="Drizzle ORM"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" alt="Git"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://cdn.simpleicons.org/github/white" width="50" alt="GitHub"/>
-</a>
-
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
 </p>
+
+<br>
+
+### Backend
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/white" alt="Express" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>
+</p>
+
+<br>
+
+### Database
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" alt="Drizzle ORM" width="50" height="50"/>
+</p>
+
+<br>
+
+### Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/white" alt="OpenAI" width="50" height="50"/>
+</p>
+
 </div>
 ---
 
