@@ -27,11 +27,9 @@ I enjoy designing robust backend systems, building intuitive user experiences, a
 
 
 ---
-## Languages & Tools
-
 <div align="center">
 
-### Frontend
+### Languages & Tools
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
@@ -47,37 +45,19 @@ I enjoy designing robust backend systems, building intuitive user experiences, a
   <img src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js" width="50" height="50"/>
   &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
-</p>
-
-<br>
-
-### Backend
-
-<p>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/express/white" alt="Express" width="50" height="50"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>
-</p>
-
-<br>
-
-### Database
-
-<p>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   &nbsp;&nbsp;
   <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" alt="Drizzle ORM" width="50" height="50"/>
-</p>
-
-<br>
-
-### Tools
-
-<p>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="50" height="50"/>
